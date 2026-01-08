@@ -22,6 +22,11 @@ body {
     border-radius: 8px;
     cursor: pointer;
 }
+nav {
+    max-width: 1600px;
+    width: 100%;
+    margin: 0 auto;
+}
 .news-btn {
     background-color: #006A50;
     padding: 13px 26px;
@@ -43,7 +48,7 @@ nav .nav-box {
     color: #0E0E0E;
     font-size: 32px;
 }
-.nav-btn button{
+.nav-btn button {
     font-size: 18px;
     font-weight: 600;
     color: #006A50;
@@ -316,6 +321,9 @@ th , td {
 }
 footer {
     max-width: 1600px;
+    width: 100%;
+    /* width: 1280px; */
+    margin: 0 auto;
     background-color: #FFFFFF;
     text-align: center;
     padding: 50px 160px;
