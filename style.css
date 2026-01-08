@@ -144,6 +144,15 @@ nav .nav-box {
     border-radius: 16px;
     /* border: 1px solid red; */
 }
+.blue {
+    background-color: #5490F520;
+}
+.sky {
+    background-color: #C6E4D6;
+}
+.light-orange {
+    background-color: #F7EBCF
+}
 .future-card img {
     width: 49px;
     margin-bottom: 24px;
