@@ -31,9 +31,6 @@ body {
     border: none;
     cursor: pointer;
 }
-nav {
-    /* max-width: 1600px; */
-}
 nav .nav-box {
     display: flex;
     justify-content: space-between;
@@ -193,6 +190,9 @@ th , td {
     padding: 24px;
     text-align: left;
     border: 1px solid #0E0E0E15;
+}
+.table-heading {
+    border-right: 0px;
 }
 .Opinion-select {
     background-color: #C6E4D6;
